@@ -1,7 +1,15 @@
 {
     "name": "froilanbuelo/inventory",
     "description": "A simple laravel inventory application.",
+    "authors":[
+    	{
+    		"name": "Froilan Buelo",
+    		"email": "froilanbuelo@gmail.com"
+    	}
+    ],
     "keywords": ["inventory", "laravel"],
     "license": "MIT",
-    "type": "project"
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
 }
