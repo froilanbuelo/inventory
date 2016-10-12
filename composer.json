@@ -1,0 +1,7 @@
+{
+    "name": "froilanbuelo/inventory",
+    "description": "A simple laravel inventory application.",
+    "keywords": ["inventory", "laravel"],
+    "license": "MIT",
+    "type": "project",
+}
